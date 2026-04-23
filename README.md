@@ -2,7 +2,7 @@
 
 A simple blog-style(index) website built without JavaScript, focusing on semantic HTML, accessibility and clean CSS.
 
-[Preview](./preview.webp)
+![Preview](./preview.webp)
 
 ## Features
 
