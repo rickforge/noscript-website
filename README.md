@@ -23,7 +23,7 @@ A simple blog-style(index) website built without JavaScript, focusing on semanti
 
 ## Live Demo
 
-link here
+[link](https://engstrom.design/demos/noscript-page/index.html)
 
 ## About the project
 
